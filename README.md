@@ -9,7 +9,7 @@ Data is available at the [Charlotte Data Portal](https://data.charlottenc.gov/da
 
 
 ### Create R Shiny App
-R Shiny app to make the dataset easily accessible for anyone [here](https://grafton-shiny.shinyapps.io/CMPD_Traffic_Stops_Final/). The app contains EDA insights for the dataset as well as comparing the location of the traffic stop to local population demographics and income. Source code and files for the R Project are located in R_Shiny folder to be able to run the app from Rstudio rather than going to the link provided. To do so,
+R Shiny app to make the dataset easily accessible for anyone [here](https://jburns27.shinyapps.io/R_Shiny/). The app contains EDA insights for the dataset as well as comparing the location of the traffic stop to local population demographics and income. Source code and files for the R Project are located in R_Shiny folder to be able to run the app from Rstudio rather than going to the link provided. To do so,
 - Download all items in the repository as a zip file by clicking 'Code' button above
 - Unzip the downloaded foler
 - Open the folder "R_Shiny"
